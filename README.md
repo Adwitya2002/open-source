@@ -1,2 +1,2 @@
 # open-source
-Open source read-me details
+Open source read-me detail
