@@ -1,2 +1,7 @@
 # open-source
-C++ program of hello-world
+#include<iostream>
+using namespace std;
+
+int main(){
+cout<<"Hello-World";
+}
